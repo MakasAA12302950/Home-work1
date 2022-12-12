@@ -1,0 +1,15 @@
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\obj\Debug\net6.0\Zadachha1.csproj.AssemblyReference.cache
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\obj\Debug\net6.0\Zadachha1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\obj\Debug\net6.0\Zadachha1.AssemblyInfoInputs.cache
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\obj\Debug\net6.0\Zadachha1.AssemblyInfo.cs
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\obj\Debug\net6.0\Zadachha1.csproj.CoreCompileInputs.cache
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\bin\Debug\net6.0\Zadachha1.exe
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\bin\Debug\net6.0\Zadachha1.deps.json
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\bin\Debug\net6.0\Zadachha1.runtimeconfig.json
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\bin\Debug\net6.0\Zadachha1.dll
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\bin\Debug\net6.0\Zadachha1.pdb
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\obj\Debug\net6.0\Zadachha1.dll
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\obj\Debug\net6.0\refint\Zadachha1.dll
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\obj\Debug\net6.0\Zadachha1.pdb
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\obj\Debug\net6.0\Zadachha1.genruntimeconfig.cache
+C:\Users\makas\Documents\GeekBrains\Seminar1\Zadachha1\obj\Debug\net6.0\ref\Zadachha1.dll
